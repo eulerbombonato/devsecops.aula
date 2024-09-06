@@ -20,7 +20,6 @@
 		<java.version>11</java.version>
 		<sonar.organization>euler-bombonato</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>euler-bombonato_euler-devsecops</sonar.projectKey>
 	</properties>
 
 	<dependencies>
